@@ -6,3 +6,5 @@ tests/temp
 .phpunit.result.cache
 .php_cs.cache!
 /infection.log
+.DS_Store
+src/.DS_Store
